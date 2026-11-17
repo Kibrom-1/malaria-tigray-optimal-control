@@ -1,0 +1,20 @@
+{
+  "critical_biting_rate": 0.18859855405613865,
+  "quadratic_coefficient_at_crossing": -382.81264296816624,
+  "quadratic_coefficient_at_baseline": -674.4634246011167,
+  "seasonal_onsets": {
+    "seed": {
+      "peak_day": 91,
+      "peak_month": 3
+    },
+    "burn_in": {
+      "peak_day": 82,
+      "peak_month": 3
+    }
+  },
+  "daily_comparisons": {
+    "all_llin_relative_objective_difference": -7.499412413392026e-05,
+    "one_percent_move_relative_objective_difference": -6.907632765784655e-07,
+    "endpoints_relative_objective_difference": -7.200758121350681e-05
+  }
+}
